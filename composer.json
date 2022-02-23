@@ -21,7 +21,7 @@
         "phpunit/phpunit": "^4.8 || ^6.5"
     },
     "replace": {
-        "enshrined/svg-sanitize": "*"
+        "enshrined/svg-sanitize": "self.version"
     },
     "autoload": {
         "psr-4": {
